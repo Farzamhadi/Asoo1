@@ -3,7 +3,7 @@ import type { Collectible, Hazard, MovingPlatform, PatrolEnemy, Platform, Rect, 
 export const WORLD_WIDTH = 1300;
 export const WORLD_HEIGHT = 1000;
 
-export const LEVEL_ARTWORK_PATH = '/assets/aistudio/AsoorikNewFace_65417697.jpg';
+export const LEVEL_ARTWORK_PATH = './assets/aistudio/AsoorikNewFace_65417697.jpg';
 
 export const PLAYER_SPAWN = {
   x: 42,
